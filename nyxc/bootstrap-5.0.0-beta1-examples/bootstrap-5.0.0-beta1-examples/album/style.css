@@ -95,7 +95,10 @@ ul.filter>li{
 }
     /* _______________start details page _____________________ */
 
-   
+ body {
+   background-color: #444;
+
+ }
 
 .design-color{
   color:#b5179e ;
@@ -117,7 +120,7 @@ ul.filter>li{
 }
 .heart button{
  border: none;
- background-color:#ffffff;
+ background-color: #444;
  
  
 }
@@ -130,7 +133,7 @@ ul.filter>li{
   font-size: 2em;
 }
 
-.disline {text-decoration: none!important;
+.unline {text-decoration: none!important;
   }
 
 
@@ -156,7 +159,9 @@ ul.filter>li{
   margin: 30px 0 ;
 }
 .fontcolor {
-  color:#444;
+  
+  color: rgb(198, 204, 204) ;
+
 }
 .single-product input{
 border: 1px solid #b5179e;
@@ -184,6 +189,7 @@ border: 1px solid #b5179e;
 
 .hr {
   height: 3px!important;
+  
 
 }
 
